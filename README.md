@@ -16,6 +16,18 @@ Sin embargo, aunque los datos se han actualizado regularmente, el equipo aún ti
 
 <hr>
 
+### Para correr el script debemos tener instalado [python](https://www.python.org/downloads/) en nuestra PC
+### Creamos un entorno vitual para instalar las librerias necesarias
+<code> py -m venv \ruta\del\tu-entorno\ </code> <br>
+
+### Instalamos las librerias necesarias para correr el proyecto
+<code> py -m pip install numpy</code> <be>
+<code> py -m pip install pandas</code><br>
+<code> py -m pip install matplotlib.pyplot as plt </code> <br>
+
+### Abres VSCode y vizualiza el analisis con jupiternotebook
+### Abre _Analisis-NF.pbx_ para ver el analisis grafico.
+
 <h2>Dashboar #1 </h2>
 
 ![image](https://user-images.githubusercontent.com/81868044/182032198-3ac89253-25c5-49f9-b9e9-ad5d967fa709.png)
